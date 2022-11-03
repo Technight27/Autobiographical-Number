@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
 
 def auto(n):
    l=[]
@@ -31,11 +26,6 @@ def auto(n):
            l1.append(item)
    return count        
  
-
-
-                
-            
-    
 z=auto(input("Enter no "))               
 print(z)
                 
